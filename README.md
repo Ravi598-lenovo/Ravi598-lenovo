@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on hands-on projects in Machine Learning and Deep Learning <br>👯 I’m looking to collaborate on Portfolio or Real-World projects and open-source contributions  <br>🤝 I’m looking for help with deploying ML projects and deep learning techniques  <br>🌱 I’m currently learning time series analysis, deep learning architectures and practical ML workflows  <br>💬 Ask me about Python, machine learning basics<br>⚡ Fun fact I enjoy reading and listening to hip-hop music<br><br>
 
@@ -19,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ravi598-lenovo&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
